@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://stanleygustavo.github.io/sitemap.xml
